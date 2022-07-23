@@ -15,7 +15,7 @@ $image_url='download.png';
 
 <?php
 
-echo "<iframe src=\"MOHITD.pdf\" width=\"100%\" style=\"height:100%\"></iframe>";
+echo "<iframe src=\"MOHITD.pdf\" width=\"100%\" style=\"height:500%\"></iframe>";
 
 ?>
 
