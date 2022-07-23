@@ -13,5 +13,12 @@ $image_url='download.png';
 <img align="middle" src="<?php echo $image_url;?>">
  </div>
 
+<?php
+
+echo "<iframe src=\"MOHITD.pdf\" width=\"100%\" style=\"height:100%\"></iframe>";
+
+?>
+
+
 </body>
 </html>
