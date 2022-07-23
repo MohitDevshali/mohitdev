@@ -8,7 +8,7 @@ echo "<p align='center'> <font color=black  size='4pt'> Mohit Devshali Resume</f
 ?>
 <?php
 
-echo "<iframe src=\"MOHITD.pdf\" width="400" height="225" frameborder="0" allowfullscreen></iframe>";
+echo "<iframe src=\"MOHITD.pdf\" width=\"100%\" style=\"height:100%\" allowfullscreen></iframe>";
 
 ?>
 
