@@ -8,7 +8,7 @@
 <body style="background-color: #E6E6FA;" >
  <h1><strong>Application is successfully deployed from Git and Github!</strong></h1>
 
-   <img src="mohit.png" width="20%" height="20%" style="float: left" title="Mohit's pic" style="border: 2px solid #555;" />
+   <img src="mohit.png" width="20%" height="20%" style="float: left" title="Mohit's pic" border="5" />
  <p>
     <br>
     <br>
