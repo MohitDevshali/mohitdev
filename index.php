@@ -14,8 +14,9 @@
     <br>
     <br>
     <br>
-    <i> <b>"I am currently working as a Middleware administator for project Bayer in capgemini, in which I have learnt about 
-middleware components and services. I also have deployement through jenkins for aws servers with the help of docker build number"</b></i><br>
+    <i> <b>"I am currently working as a Middleware administrator for project Bayer in Capgemini since May 2021, In which I have learnt about 
+middleware components and services and have done deployement through jenkins for aws servers with the help of docker build number.
+     I am good in Azure cloud and have done certiciation in Azure i.e Az-900, Az-204, Az-400"</b></i><br>
     <br>
     <br>
     <br>
@@ -24,7 +25,7 @@ middleware components and services. I also have deployement through jenkins for 
    
 
 
-<h2 align='center' font color=black  size='4pt'> Mohit Devshali Resume</h2>
+ <h2 align='center' font color=black  size='4pt'> <u>Mohit Resume</u></h2>
 
 <iframe src="MOHITD.pdf" style="width: 100%; height: 100vh"></iframe>
 
