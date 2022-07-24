@@ -10,10 +10,9 @@ img {
 </style>
 </head>
 <body>
- <p><img src="mohit.png" width="20%" height="20%">
-"I am currently working as a Middleware administator for project Bayer in capgemini, in which I have learnt about 
+<img src="mohit.png" width="20%" height="20%">"I am currently working as a Middleware administator for project Bayer in capgemini, in which I have learnt about 
 middleware components and services. I also have deployement through jenkins for aws servers with the help of docker build number"
-</p>
+   
 <p>Application is successfully deployed from Git and Github</p>
 
 <p align='center' font color=black  size='4pt'> Mohit Devshali Resume</p>
