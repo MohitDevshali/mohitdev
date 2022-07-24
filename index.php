@@ -6,7 +6,7 @@
 </style>
 </head>
 <body>
- <h1>Application is successfully deployed from Git and Github</h1>
+ <h1><strong>Application is successfully deployed from Git and Github</strong></h1>
 
    <img src="mohit.png" width="20%" height="20%" style="float: left" />
  <p>
@@ -14,8 +14,8 @@
     <br>
     <br>
     <br>
-     I am currently working as a Middleware administator for project Bayer in capgemini, in which I have learnt about 
-middleware components and services. I also have deployement through jenkins for aws servers with the help of docker build number<br>
+    <i> "I am currently working as a Middleware administator for project Bayer in capgemini, in which I have learnt about 
+middleware components and services. I also have deployement through jenkins for aws servers with the help of docker build number"</i><br>
     <br>
     <br>
    </p>
