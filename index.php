@@ -14,7 +14,7 @@
      I am currently working as a Middleware administator for project Bayer in capgemini, in which I have learnt about 
 middleware components and services. I also have deployement through jenkins for aws servers with the help of docker build number
    </div>
-   <img src="mohit.png" alt="" />
+   <img src="mohit.png" width="20%" height="20%" alt="" />
    </p>
   </div>
    
