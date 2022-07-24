@@ -5,7 +5,7 @@
 <?php
 echo "<p align='center'> <font color=blue  size='6pt'>Application is successfully deployed from Git and Github </font> </p>";
 
-  echo "<img src="mohit.png" style="width: 20%; height: 20%" />";
+echo '<img src="mohit.png" style="width: 20%; height: 20%" />';
 
 echo "<p align='center'> <font color=black  size='4pt'> Mohit Devshali Resume</font> </p>"
 ?>
