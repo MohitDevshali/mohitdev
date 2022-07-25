@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-
-</style>
+ <title>Mohit's Application</title>
 </head>
 <body style="background-color: #E6E6FA;" >
  <h1><strong>Application is successfully deployed from Git and Github!</strong></h1>
