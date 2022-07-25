@@ -4,7 +4,7 @@
  <title>Mohit's Application</title>
 </head>
 <body style="background-color: #E6E6FA;" >
- <h1><strong>Application is successfully deployed from Git and Github!</strong></h1>
+ <h1><strong>Application is successfully deployed from Git and Github!  -- Manjeet</strong></h1>
 
    <img src="mohit.png" width="20%" height="20%" style="float: left" title="Mohit's pic" border="3" />
  <p>
