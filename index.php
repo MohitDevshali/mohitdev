@@ -9,9 +9,9 @@
  <p>
     <br>
     <br>
-    <i> <b>"I am currently working as a Middleware administrator for project Bayer in Capgemini since May 2021, In which I have learnt about 
-middleware components and services and have done deployement through jenkins for aws servers with the help of docker build number.
-     I am good in Azure cloud and have done certiciation in Azure i.e Az-900, Az-204, Az-400"</b></i><br>
+    <i> <b>"I am currently working as a Senior Analyst with 1.5 years of experience in Middleware and IT & Services Industry. Skilled in Multiple middleware components and services.
+Well organized with strong problem solving and good communication skills as well as I have the ability to work both in teams and independently.
+Good grasp in ITIL principles and processes : Incident Management, Change Management, Service Request"</b></i><br>
   <p><a href="https://github.com/mohitdsevshali/mohitdev" target="_blank">Visit Mohit's GitHub Repository!</a></p>
   <p><a href="https://www.linkedin.com/in/mohit-devshali-96169a163/" target="_blank">Visit Mohit's LinkedIn Profile!</a></p>
     <br>
